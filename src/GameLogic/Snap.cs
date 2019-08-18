@@ -152,7 +152,7 @@ namespace CardGames.GameLogic
 			_started = false;
             _gameTimer.Stop();
 		}
-	
+	//Due to session close no changes would show sorry
 		#region Snap Game Unit Tests
 		#if DEBUG
 
